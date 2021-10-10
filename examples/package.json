@@ -10,7 +10,7 @@
   "dependencies": {
     "cldr-data": "~26.0.9",
     "react": "~0.13.1",
-    "globalize": "~1.0.0-alpha.18"
+    "globalize": "~1.7.0"
   },
   "scripts": {
     "build": "mkdir -p react-globalize && cp ../dist/*.js react-globalize/ && browserify --debug --transform reactify index.js > app.js"
