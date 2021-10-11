@@ -8,7 +8,7 @@
     "reactify": "^0.17.1"
   },
   "dependencies": {
-    "cldr-data": "~26.0.9",
+    "cldr-data": "~29.0.3",
     "react": "~0.13.1",
     "globalize": "~1.0.0-alpha.18"
   },
